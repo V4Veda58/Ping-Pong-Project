@@ -20,3 +20,12 @@ background-size: cover;
 {
     font-size: 22px;
 }
+.restart button
+{
+    border: 1px solid aliceblue;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px solid rgb(91, 167, 233);
+    border: 1px solid aliceblue;
+}
